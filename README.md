@@ -10,3 +10,7 @@ Tema: TSP
 - tsp_g 2p.py  busqueda por Greedy +  2-opt
 - tsp_vegas.py     busqueda por Vegas
 - IA.py    todas las busquedas
+
+Requisitos 
+- python 3.6
+- No requiere librerias externas
